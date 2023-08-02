@@ -17,3 +17,9 @@ String str = new String(new byte[]{104,116,116,112,115,58,47,47,97,112,105,46,10
 "link":"https://raw.githubusercontent.com/ZinDown/new/main/japan_hd_2.json",
 "type":"x"
 },
+{
+"title":" မြ မြ လိုးကားများ ",
+"image":"https://cdn77-pic.xnxx-cdn.com/videos/thumbslll/e8/cc/12/e8cc12f53d2611bec9374e5abaf82ec2/e8cc12f53d2611bec9374e5abaf82ec2.15.jpg",
+"link":"https://raw.githubusercontent.com/ZinDown/loekar/main/myamya.json",
+"type":"x"
+},
