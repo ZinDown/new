@@ -1,3 +1,7 @@
+
+
+https://t.me/+71nI0gaSm7BkYmI1
+
 # new
 This folder is loe kar update file.
 Okai?
