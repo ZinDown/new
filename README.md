@@ -1,6 +1,5 @@
 
-https://t.me/+N8QfBWkt_Bo3MWI1
-
+https://t.me/+nP105ovzxW4wMTBl
 
 # new
 This folder is loe kar update file.
